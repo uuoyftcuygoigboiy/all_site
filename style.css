@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.link-header{
+    text-decoration:None;
+    color: white;
+    background: linear-gradient(lightblue,rgb(175, 162, 162));
+    padding: 15px;
+    border-radius: 10px;
+}
+
+img{
+    width: 250px; height: 250px;
+}
